@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: #fffafa;
+}
+
+section {
+    height: 650px;
+    border: 1px solid white;
+    display: flex;
+    /* justify-content: left;
+    align-items: left;
+    text-align: left; */
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+}
+
+#welcome {
+    background-image: url('pictures/welcome.png');
+    background-size: 1350px 650px;
+}
+
+#genre {
+    background-image: url('pictures/radarchart.png');
+    background-size: 1350px 650px;
+}
+
+#lines {
+    background-image: url('pictures/wordcloud.png');
+    background-size: 1350px 650px;
+}
+
+#timeline {
+    background-image: url('pictures/timeline.png');
+    background-size: 1350px 650px;
+}
+
+#gallery {
+    background-image: url('pictures/Gallery.png');
+    background-size: 1350px 650px;
+}
