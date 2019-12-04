@@ -42,9 +42,3 @@ footer {
     background-image: url('pictures/Gallery.png');
     background-size: 1350px 650px;
 }
-
-@media screen and (max-width: 375px) {
-  body {
-    align-items: flex-start;
-  }
-}
